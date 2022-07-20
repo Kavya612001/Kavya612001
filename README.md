@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full stack web dev**
 
-- 🌱 I’m currently learning **React, Docker, Django, Flask, Automating Stuffs using python**
+- 🌱 I’m currently learning **React, Angular, SpringBoot, PL/SQL **
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
