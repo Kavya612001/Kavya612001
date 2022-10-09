@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular, SpringBoot, PL/SQL**
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
-
 - 📫 How to reach me **kavya612001@gmail.com**
 
 
